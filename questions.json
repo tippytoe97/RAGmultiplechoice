@@ -1,0 +1,8 @@
+{"Q1": "List the metrics were used to compare GloVe vectors with other embedding methods such as Word2Vec?", 
+"Q2": "What novel techniques did the 'Attention is all you need' paper introduce?",
+"Q3": "What are the core components of a Transformer architecture and their functions?", 
+"Q4": "How do Transformer-based models differ from RNN-based models in terms of architecture and efficiency?", 
+"Q5": "What are the differences between GloVe word embeddings and contextual embeddings like BERT?", 
+"Q6": "How does masked language modeling (MLM) work in BERT, and why is it effective?", 
+"Q7": "What is multi-head attention, and how does it improve upon single-head attention?", 
+"Q8": "Compare the differences between Encoder-only, Encoder-Decoder, and Decoder-only architectures in NLP. Provide examples of models that use each architecture and describe their key characteristics."} 
